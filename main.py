@@ -7,7 +7,7 @@ import logging
 # import handlers
 
 
-API_TOKEN = '6990879766:AAEnbWZPzD7AzSIjKORdabi6irSRdsrFyYw'
+API_TOKEN = 'YOUR TOKEN'
 
 # * Initilazing bot
 bot = Bot(token=API_TOKEN)
